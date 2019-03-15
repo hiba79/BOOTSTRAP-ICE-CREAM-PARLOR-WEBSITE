@@ -1,0 +1,286 @@
+/*     HEADER        */
+
+.container-fluid
+{
+    background-color: rgb(22, 22, 22);
+    letter-spacing: 0.05em;
+    height: 50px;
+    color: #E8E8E8;
+    text-align: center;
+   
+    font-family: normal normal normal 16px/1.4em dinneuzeitgroteskltw01-_812426,sans-serif;
+
+}
+
+/*  CONTAINER 1    */
+
+.container-fluid1
+{
+     background-image: url(./images/ice1.png); 
+    background-color: rgb(252, 238, 115);
+    width: 100%;
+    position: relative;
+
+    text-align: center;
+    height: 800px;
+}
+
+.container-fluid1 h5{
+    font: normal normal normal 32px/1.2em dinneuzeitgroteskltw01-_812426,sans-serif; 
+    color: #ffffff;
+    letter-spacing: 0.05em;
+    padding-top: 40px;
+
+}
+
+.container-fluid1 h1{
+    font: normal normal normal 140px/1.1em lulo-clean-w01-one-bold,sans-serif; 
+    color: #ffffff;
+    font-weight: bolder;
+    letter-spacing: 0.07em;
+}
+
+ .container-fluid1 .navbar-left{
+     position: fixed;
+    padding-left: 20px;
+ text-align: left;
+ font-size: 18px;
+ font-weight: bold;
+ }
+
+/*   /*  CONTAINER 2   */   
+
+.container-fluid2
+{
+    text-align: center;
+    height: 500px;
+    
+}
+.container-fluid2 img{
+    width: 100%;
+}
+.container-fluid2 h2{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 80px;
+
+}
+.container-fluid2
+ h4{ 
+    font-family: Brush Script MT;
+   font-size: 30px;
+    padding-left: 50px;
+    padding-right: 80px;
+
+}
+.container-fluid2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 80px;
+}
+
+
+/*    /*  CONTAINER 3    */    
+
+.container-fluid3{
+    background-image: url(./images/blue.jpg);
+    width: 100%;
+    position: relative;
+    text-align: center;
+    height: 600px;
+    padding-top: 40px;
+}
+
+
+.container-fluid3 h5{
+    font: normal normal normal 32px/1.2em dinneuzeitgroteskltw01-_812426,sans-serif; 
+    color: #ffffff;
+    letter-spacing: 0.05em;
+    padding-top: 70px;
+
+}
+
+.container-fluid3 h1{
+    font: normal normal normal 140px/1.1em lulo-clean-w01-one-bold,sans-serif; 
+    color: #ffffff;
+    font-weight: bolder;
+    letter-spacing: 0.07em;
+}
+
+
+/*   /*  CONTAINER 4   */    
+
+
+.container-fluid4
+{
+    text-align: center;
+    height: 500px;
+    
+}
+.container-fluid4 img{
+    width: 100%;
+}
+.container-fluid4 h2{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 100px;
+    padding-left: 50px;
+    
+    padding-right: 80px;
+
+}
+.container-fluid4
+ h4{ 
+    font-family: Brush Script MT;
+    font-size: 30px;
+    padding-left: 50px;
+    padding-right: 80px;
+
+}
+.container-fluid4 p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 80px;
+}
+
+/*    /*  CONTAINER 5   */    
+
+
+.container-fluid5{
+    background-image: url(./images/event.jpg);
+    width: 100%;
+    position: relative;
+    text-align: center;
+    height: 650px;
+    padding-top: 40px;
+}
+
+
+.container-fluid5 h5{
+    font: normal normal normal 32px/1.2em dinneuzeitgroteskltw01-_812426,sans-serif; 
+    color: #ffffff;
+    letter-spacing: 0.05em;
+    padding-top: 70px;
+
+}
+
+.container-fluid5 h1{
+    font: normal normal normal 140px/1.1em lulo-clean-w01-one-bold,sans-serif; 
+    color: #ffffff;
+    font-weight: bolder;
+    letter-spacing: 0.07em;
+}
+
+
+/*  CONTAINER 6    */
+
+.container-fluid6
+{
+    text-align: center;
+    height: 500px;
+    
+}
+.container-fluid6 img{
+    width: 100%;
+}
+.container-fluid6 h2{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 80px;
+
+}
+.container-fluid6
+ h4{ 
+    font-family: Brush Script MT;
+    font-size: 30px;
+    padding-left: 50px;
+    padding-right: 80px;
+
+}
+.container-fluid6 p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 80px;
+}
+
+/*   /*  CONTAINER 8   */    
+
+
+.container8{
+    position: relative;
+    text-align: center;
+    height: 140px;
+    padding: 30px;
+}
+
+
+.container8 h5{
+    font: normal normal normal 32px/1.2em dinneuzeitgroteskltw01-_812426,sans-serif; 
+    color: black;
+    letter-spacing: 0.05em;
+    /* padding-top: 70px; */
+
+}
+
+/*    /*  CONTAINER 9   */   
+
+.container-fluid9{
+    width: 100%;
+}
+
+
+/*      FOOTER     */
+
+.footer {
+          
+    background-color: black;
+    display: flex;
+    width: 100%;
+    text-decoration: none;
+    padding-top: 70px;
+    padding-bottom: 90px;
+    padding-left: 110px;
+    padding-right: 110px;
+    color: white;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    vertical-align: baseline;
+    letter-spacing: 0.05em;
+   
+   
+  }
+
+  .foo {
+    flex: 1;
+    padding: 5px;
+  }
+  .foo li{
+      list-style-type: none;
+      line-height: 24px;
+  }
+  a:link {
+    text-decoration: none;
+  } 
+
+  
+  /* BUTTON  */
+  
+.button1 {
+    background-color: transparent;
+    color: white;
+    border: 3px solid white; 
+    width: 150px;
+    font-size: 22px;
+  }
+  
+   
+.button2 {
+    background-color: transparent;
+    color: black;
+    border: 3px solid black; 
+    width: 150px;
+    font-size: 22px;
+  }
